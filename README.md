@@ -1,5 +1,17 @@
 # My-portfolio
 
+## star-db-react
+
+HTML/SCSS modules/React/React Route V6/Framer-motion/Vite/Fetch
+
+![star-db-react](https://i.imgur.com/QOTveRC.png)
+
+[Preview](https://loontek.github.io/star-db-react/)
+
+[Source Code](https://github.com/Loontek/star-db-react/tree/dev)
+
+---
+
 ## burger-delivery_React-Redux
 
 HTML/CSS modules/React/Vite/Redux/Fetch
